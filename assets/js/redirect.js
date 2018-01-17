@@ -2,8 +2,8 @@ var language = navigator.browserLanguage;
 
 // alert(language);
 
-if (language.indexOf('en') > -1) {
-document.location.href = 'http://en.athelo.net';
+if (language.indexOf('in') > -1) {
+document.location.href = 'http://in.athelo.net';
 } else {
 document.location.href = 'http://athelo.net';
 }
