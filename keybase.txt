@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/aezlo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://me.athelo.net
+  * I am aezlo (https://keybase.io/aezlo) on keybase.
+  * I have a public key with fingerprint 41BD 7A24 0624 8D15 12A3  151E CF6D 57A5 137E 6A04
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010168486b08d6016ff18347999c3b223be0d9b9da721c2e7037b052b27311a8709e0a",
+      "fingerprint": "41bd7a2406248d1512a3151ecf6d57a5137e6a04",
+      "host": "keybase.io",
+      "key_id": "cf6d57a5137e6a04",
+      "kid": "010168486b08d6016ff18347999c3b223be0d9b9da721c2e7037b052b27311a8709e0a",
+      "uid": "2b7fbd8c19cd52e75e12c155deb44b19",
+      "username": "aezlo"
+    },
+    "merkle_root": {
+      "ctime": 1517143027,
+      "hash_meta": "4f9f316aa02611b773d12da2b4a46deca889c6fc012fdc61585b9b64c5551357",
+      "seqno": 1994874
+    },
+    "revoke": {
+      "sig_ids": [
+        "f314daf10ead3febdb7c8f273f419ea8da9286d999ef3c4de6b062a8b61ded430f"
+      ]
+    },
+    "service": {
+      "hostname": "me.athelo.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1517143032,
+  "expire_in": 157680000,
+  "prev": "c3839c8acd98be45af4bb68a5d40523c7ec23bc62269121e534a979abc7b4081",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMK0AnicrVNbaBxVGN7UW5JaLYi+tGh3pFAwiXMuM+ecDRbFaqm1PtQHS5OwnMt/
+NpPs7mxmJ9smMULEC82D4ku8gLYS8CWwWIUqlIqsiRUUIkV0UWkFL+1DpdSAxMaA
+Z0JFEB+dh7md7/+/y3/O4pYbct0dzR/GHkvHduzs+LyVjOcOVz5ZnfJUbCa8wpQ3
+ChsPKBuop8XRyHgFz0c+CjnlofK5Cd27tYgTyoQQmiiMiQLfCCWMZBhpDMwnTPkB
+VpgRhCRnvgBfej2ejaolSGpJVE1dW4qUYRJTP8SUGxQgLIm7g7ahCZgMEGEQSp+6
+wuG4nlU4cUrWoS+K3T/3UdyQ9x/4/1n3+EY7rJhVhmsktAkcOgCENQoCA4pShUQG
+rENSlRVwaAmT5dib7vEqkIyWoZjEcZolq9MoW3dGGaLEx8y5k/XhYgVSmYVihSUo
+lNLHIUKKMWIQNhIrKmloQEvOhQ6t9hG2Roco4IESKqQ6CFwAAXMi6jBWjR2DEJQz
+6hQk0IhHISOvRyWXWd0rDHiOhRppkQ/SEAvKKKa5dc4tRQIkN1JgHhqXFViiqQGX
+YoglVyEyYJxy6w1NZ2RJI9IbzbMhXTdfgT6ZDkM57qtC6iTVkjiNdVx2S8NpWitk
+uaQTtQx6BFTxepOiiqrGbRFX0ICkHsVV58Ih/xUZwT0eHK1FCRSjDBGwkPvuymig
+kW0IwonQXGojuAIaSEuVCrkMDHXTJZqBdrPXIcahQBhBQKgUTEilmaI+R/9kGDiZ
+suRauuCqMh1PwJtufTx4Y66jO3fzTZuyo5Pr7tr694Eaurcz9/Lb/VdONF/aI967
+tjffPPCQf1er0tWeMy/mFl4/Re5bvmcqt+urS4+sd32Z6xz54OKlY8/8vrw0a9cP
+tfuWS+v9dy7uW3r/58Wzh3vPPJA2D/6Y/3Dvucszrx1/1N825B+cOIB6By8ubH36
+rfPfP9e7/9bNPy3vmqsX2le3P360Nni+OT//xpu7PzvkEf/ab5urPc0XBi7zxpYr
+ZH9/vv3tdyu19bmvX9leG7m/1cpv6pzeNrRvrHD7yIOnTn7TXusu3XJH58qTF1bP
+Pjx790y8hzef+GLhz4G5/JQ4rdq/Tj776vE/Lhz7Zffa8x+t9Xa8s/PdydUj9sTI
+yqfndtRmbJe9rTTy1OzS/NW/ABJJfl0=
+=JarI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aezlo
+
+==================================================================
